@@ -33,7 +33,7 @@ Gathered system information using terminal commands, observed running processes,
 
 ### Task 3.3 — Understand paths and permissions
 
-- **Absolute path:** A full path starting from the root of the file system, e.g. `/Users/[redacted]/digital-detective-XXXX/mission-03-operating-system`.
+- **Absolute path:** A full path starting from the root of the file system, e.g. `/Users/[redacted]/digital-detective-8412/mission-03-operating-system`.
 - **Relative path:** A path relative to the current directory, e.g. `../mission-02-terminal` (goes up one level, then into the mission-02 folder).
 - **Difference:** An absolute path always works regardless of where you are, while a relative path depends on your current location.
 

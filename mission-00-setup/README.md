@@ -6,7 +6,7 @@ Set up a correctly named GitHub repository with the required folder structure an
 
 ## 2. Work completed
 
-- Decided on the repository name following the naming rule: `digital-detective-XXXX` (assignment name + last four USN digits).
+- Decided on the repository name following the naming rule: `digital-detective-8412` (assignment name + last four USN digits).
 - Created the local project folder and opened it in Terminal.
 - Created all nine mission folders (`mission-00-setup` through `mission-08-final-report`) and an `evidence/` folder.
 - Placed an empty `README.md` inside every mission folder.
@@ -15,7 +15,7 @@ Set up a correctly named GitHub repository with the required folder structure an
 
 ## 3. Commands / tools used
 
-- `mkdir -p digital-detective-XXXX` — created the project folder.
+- `mkdir -p digital-detective-8412` — created the project folder.
 - `mkdir mission-00-setup mission-01-computer-basics ...` — created each mission subfolder.
 - `touch README.md` — created empty README files inside each folder.
 - `git init` — initialised the local Git repository.
